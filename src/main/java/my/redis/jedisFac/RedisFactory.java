@@ -1,4 +1,4 @@
-package my.redis.a;
+package my.redis.jedisFac;
 
 import org.junit.Test;
 import redis.clients.jedis.Jedis;

@@ -1,6 +1,6 @@
 package my.redis.hd3;
 
-import my.redis.a.RedisFactory;
+import my.redis.jedisFac.RedisFactory;
 import org.junit.Test;
 import redis.clients.jedis.Jedis;
 
