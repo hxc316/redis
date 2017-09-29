@@ -1,6 +1,6 @@
-package countDown.proxyutil;
+package proxyutil;
 
-import countDown.proxyutil.runImpl.Run1;
+import proxyutil.runImpl.Run1;
 
 /**
  * Created by xc on 2017/9/25.

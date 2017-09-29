@@ -1,4 +1,4 @@
-package countDown;
+package concor.countDown;
 
 import org.junit.Test;
 

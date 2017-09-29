@@ -1,4 +1,4 @@
-package countDown.proxyutil;
+package proxyutil;
 
 /**
  * Created by xc on 2017/9/25.

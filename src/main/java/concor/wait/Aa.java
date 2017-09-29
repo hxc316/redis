@@ -1,4 +1,4 @@
-package wait;
+package concor.wait;
 
 /**
  * Created by xc on 2017/9/29.

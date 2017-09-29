@@ -1,4 +1,4 @@
-package countDown.proxyutil;
+package proxyutil;
 
 import org.aopalliance.intercept.MethodInvocation;
 

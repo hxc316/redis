@@ -1,13 +1,9 @@
-package countDown.proxyutil;
+package proxyutil;
 
-import countDown.proxyutil.runImpl.Run1;
-import org.junit.*;
+import proxyutil.runImpl.Run1;
 
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.TimeUnit;
 
 /**
  * Created by xc on 2017/9/25.

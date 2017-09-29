@@ -1,11 +1,11 @@
-package countDown.proxyutil.runImpl;
+package proxyutil.runImpl;
 
-import countDown.proxyutil.Inter;
+import proxyutil.Inter;
 
 /**
  * Created by xc on 2017/9/25.
  */
-public class Run1 implements Inter{
+public class Run1 implements Inter {
     int i = 0;
     @Override
     public synchronized void run() {
