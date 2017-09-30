@@ -3,7 +3,7 @@ package concor.wait;
 /**
  * Created by xc on 2017/9/29.
  */
-public class Aa {
+public class AaWait {
 
     final static Object ob = new Object();
 
